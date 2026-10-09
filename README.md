@@ -1,1 +1,32 @@
-Last updated: 2026-10-09 13:06:39 WIB
+# tubeflow-ai
+
+
+
+## 📋 Overview
+
+This repository contains **19 files** and is built with the following technologies:
+
+Node.js, HTML, JavaScript
+
+## 🚀 Quick Start
+
+```bash
+npm install
+npm run dev
+npm run build
+```
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+Node.js, HTML, JavaScript
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-10-09 13:19:36 WIB*
